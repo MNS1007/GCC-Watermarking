@@ -9,13 +9,13 @@ Enhancing Digital Media Copyright Protection with GCC-based Watermarking
 
 <h2>Project Overview</h2>
 
-<p>During my internship from November 2022 to March 2023, I worked on implementing and testing an innovative invisible watermarking technique for images. This project was conducted in collaboration with DRDO through TIFAC CORE. The goal of this project was to enhance copyright protection for digital media by improving the robustness of watermarking against various geometric transformations.</p>
+<p>During my internship from November 2022 to March 2023, I worked on implementing and testing an innovative invisible watermarking technique for images. The goal of this project was to enhance copyright protection for digital media by improving the robustness of watermarking against various geometric transformations.</p>
 
 <h2>Key Achievements</h2>
 
 <ul>
     <li>Implemented a C++ tool based on a research paper's methodology for invisible watermarking in images.</li>
-    <li>Successfully tested the watermarking algorithm on images provided by DRDO, validating its effectiveness under various geometric transformation attacks.</li>
+    <li>Successfully tested the watermarking algorithm on images provided by the lab, validating its effectiveness under various geometric transformation attacks.</li>
     <li>Contributed to the protection of copyrights for digital media by applying innovative geometric correction codes (GCCs).</li>
     <li>Improved watermark extraction accuracy by applying the geometric correction approach, thereby enhancing robustness against geometric transformations like rotation, scaling, and shifting.</li>
     <li>Contributed to image processing research, enhancing watermarking schemes for superior robustness without compromising visibility.</li>
@@ -35,7 +35,7 @@ Enhancing Digital Media Copyright Protection with GCC-based Watermarking
 
 <h2>Acknowledgments</h2>
 
-<p>I would like to express my gratitude to Your Supervisor's Name for their guidance and support throughout this internship.</p>
+<p>I would like to express my gratitude to the entire TIFAC-CORE team for their guidance and support throughout this internship.</p>
 
 <h2>Contact</h2>
 
