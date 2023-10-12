@@ -9,6 +9,7 @@ Enhancing Digital Media Copyright Protection with GCC-based Watermarking
 
 <h2>Project Overview</h2>
 
+
 <p>During my internship from November 2022 to March 2023, I worked on implementing and testing an innovative invisible watermarking technique for images. The goal of this project was to enhance copyright protection for digital media by improving the robustness of watermarking against various geometric transformations.</p>
 
 <h2>Key Achievements</h2>
@@ -30,7 +31,7 @@ Enhancing Digital Media Copyright Protection with GCC-based Watermarking
 
 <p></p>
 
-<img src="link_to_result1.png" alt="Result 1">
+<img src="https://github.com/MNS1007/GCC-Watermarking/assets/85781272/4deae717-4667-4241-bc4e-df54ddb688ae" alt="Input Image">
 <img src="link_to_result2.png" alt="Result 2">
 
 <h2>Acknowledgments</h2>
