@@ -23,22 +23,7 @@ Enhancing Digital Media Copyright Protection with GCC-based Watermarking
 
 <h2>Project Details</h2>
 
-<p><a href="link_to_research_paper.pdf">Research Paper</a>: Link to the research paper that served as the foundation for this project.</p>
-<p><a href="link_to_demo_video.mp4">Project Demo</a>: A short video demonstrating the project in action.</p>
-<p><a href="link_to_code_repository">Code</a>: Link to the GitHub repository containing the project code.</p>
-
-<h2>Installation</h2>
-
-<p>To run the project locally, follow these steps:</p>
-
-<ol>
-    <li>Clone this repository.</li>
-    <pre><code>git clone https://github.com/your_username/repo_name.git</code></pre>
-    <li>Install the required dependencies.</li>
-    <pre><code>pip install -r requirements.txt</code></pre>
-    <li>Run the project.</li>
-    <pre><code>python main.py</code></pre>
-</ol>
+<p><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12143">Research Paper</a>: Link to the research paper that served as the foundation for this project.</p>
 
 
 <h2>Results</h2>
@@ -57,4 +42,4 @@ Enhancing Digital Media Copyright Protection with GCC-based Watermarking
 <p>If you have any questions or suggestions, feel free to reach out to me:</p>
 
 <p>Email: nithin.murugan10@email.com</p>
-<p>LinkedIn: <a href="[https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/nithin-skantha-m-b0a880224/)https://www.linkedin.com/in/nithin-skantha-m-b0a880224/">Your LinkedIn Profile</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/nithin-skantha-m-b0a880224/)https://www.linkedin.com/in/nithin-skantha-m-b0a880224"/>Nithin Skantha M</a></p>
