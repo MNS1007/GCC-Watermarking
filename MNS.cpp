@@ -10,7 +10,7 @@
 #include <algorithm>
 using namespace cv;
 using namespace std;
-class MNS
+class GCC_IP
 {
 public:
 	Mat read(string address) {
@@ -422,7 +422,7 @@ public:
 };
 int main()
 {
-	MNS process, test, sample;
+	GCC_IP process, test, sample;
 	Mat y, result, gcc_ouput, cover_transform;
 	string cover_path = "";
 	string new_path;
