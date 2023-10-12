@@ -40,29 +40,13 @@ Enhancing Digital Media Copyright Protection with GCC-based Watermarking
     <pre><code>python main.py</code></pre>
 </ol>
 
-<h2>Usage</h2>
-
-<p>Explain how to use your project or provide code snippets to demonstrate its functionality.</p>
-
-<pre><code>
-# Sample code snippet
-import watermarking
-
-# Usage example
-watermarking.embed_watermark(input_image, watermark)
-</code></pre>
 
 <h2>Results</h2>
 
-<p>Include some visual examples of the project's output and results.</p>
+<p></p>
 
 <img src="link_to_result1.png" alt="Result 1">
 <img src="link_to_result2.png" alt="Result 2">
-
-<h2>Future Work</h2>
-
-<p>Discuss potential future enhancements or features that can be added to this project.</p>
-<p>Encourage contributions from the open-source community.</p>
 
 <h2>Acknowledgments</h2>
 
@@ -72,10 +56,5 @@ watermarking.embed_watermark(input_image, watermark)
 
 <p>If you have any questions or suggestions, feel free to reach out to me:</p>
 
-<p>Email: your@email.com</p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/your_profile">Your LinkedIn Profile</a></p>
-<p>Twitter: <a href="https://twitter.com/your_profile">Your Twitter Profile</a></p>
-
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>Email: nithin.murugan10@email.com</p>
+<p>LinkedIn: <a href="[https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/nithin-skantha-m-b0a880224/)https://www.linkedin.com/in/nithin-skantha-m-b0a880224/">Your LinkedIn Profile</a></p>
