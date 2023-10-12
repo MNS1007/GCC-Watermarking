@@ -1,1 +1,21 @@
+Research Internship Project: Invisible Watermarking in Images
+
+GitHub repository for my research internship project at TIFAC CORE in Cyber Security, Amrita Vishwa Vidyapeetham!
+
+## Project Overview
+
+During my internship from November 2022 to March 2023, I worked on implementing and testing an innovative invisible watermarking technique for images. The goal of this project was to enhance copyright protection for digital media by improving the robustness of watermarking against various geometric transformations.
+
+## Key Achievements
+
+- Implemented a C++ tool based on a research paper's methodology for invisible watermarking in images.
+- Successfully tested the watermarking algorithm on images provided by the lab, validating its effectiveness under various geometric transformation attacks.
+- Contributed to the protection of copyrights for digital media by applying innovative geometric correction codes (GCCs).
+- Improved watermark extraction accuracy by applying the geometric correction approach, thereby enhancing robustness against geometric transformations like rotation, scaling, and shifting.
+- Contributed to image processing research, enhancing watermarking schemes for superior robustness without compromising visibility.
+
+## Project Details
+
+- [Research Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12143): Link to the research paper that served as the foundation for this project.
+
 
